@@ -6,10 +6,8 @@ Este projeto implementa em Julia os problemas de programação científica relac
 
 ## Estrutura do Projeto
 
-- `main.jl` - Script principal que executa ambos os problemas
 - `problema1.jl` - Implementação da função f(x) = e^(x*sen(ax))e^(-bx)
 - `problema2.jl` - Resolução da Lei Fundamental da Dinâmica usando MDF
-- `README.md` - Este arquivo
 
 ## Problemas Implementados
 
